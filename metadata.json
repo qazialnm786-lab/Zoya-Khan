@@ -1,0 +1,6 @@
+{
+  "name": "Zoya",
+  "description": "Zoya - Real-time background voice assistant powered by Gemini Live with native device controls, wake-word activation, and dynamic visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

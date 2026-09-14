@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zoya</string>
+    <string name="zoya_notification_channel_name">Zoya Background Service</string>
+    <string name="zoya_notification_channel_desc">Keeps Zoya voice assistant listening in background</string>
+    <string name="zoya_listening">Zoya is listening…</string>
+    <string name="zoya_say_wake">Say \"Zoya\" to wake</string>
+    <string name="zoya_active">Zoya is active!</string>
+</resources>
